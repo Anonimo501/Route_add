@@ -12,10 +12,10 @@ Sencillo script para añadir Rutas de Red de forma muy facil y sencilla.
 
 ## Uso
 
-git clone https://github.com/Anonimo501/nmap_brute_forece_default.git
+git clone https://github.com/Anonimo501/Route_add.git
 
-cd nmap_brute_forece_default/
+cd Route_add/
 
-chmod +x nmap_brute_forece_default.sh
+chmod +x Route_add.sh
 
-./nmap_brute_forece_default.sh
+./Route_add.sh
